@@ -34,7 +34,7 @@
   - Watch filesystem changes with --watch
 - Internal API
   - Streams API: 👂 heard
-  - Web Streams API
+  - Web Streams API: 👂 heard
   - Crypto API
   - Password hashing with node:crypto.scrypt
   - Web Crypto API
@@ -44,10 +44,10 @@
   - Performance hooks
   - Native fetch and nodejs/undici: 👂 heard
   - node:async_hooks: 👂 heard
-  - AsyncLocalStorage
-  - AsyncResource
-  - Deprecated domain API
-  - Node.js single executable
+  - AsyncLocalStorage: 👂 heard
+  - AsyncResource: 👂 heard
+  - Deprecated domain API: 👂 heard
+  - Node.js single executable: 👂 heard
   - Stream back pressure
   - SharedArrayBuffer
   - node:worker_threads
@@ -84,55 +84,55 @@
   - GoF for Node.js
   - Leaking abstractions
 - Network
-  - IP sticky sessions
-  - Endpoint throttling
+  - IP sticky sessions: 🎓 known
+  - Endpoint throttling: 🎓 known
   - HTTP(S): 🎓 known
   - TCP/SSL: 🎓 known
   - UDP: 🎓 known
-  - TLS
-  - Websocket
+  - TLS: 👂 heard
+  - Websocket: 🎓 known
   - SSE
   - HTTP/3 (QUIC): 🎓 known
   - Long polling
-  - REST
+  - REST: 🎓 known
   - RPC
-  - Routing
+  - Routing: 🎓 known
   - DoS: 🎓 known
   - DDoS: 🎓 known
   - XSS
   - Path traversal
   - CSRF
   - DNS: 🎓 known
-  - Fetch API
-  - IncomingMessage
-  - SQL injection
-  - noDelay
+  - Fetch API: 🎓 known
+  - IncomingMessage: 👂 heard
+  - SQL injection: 🎓 known
+  - noDelay: 👂 heard
   - keep-alive
   - ALPN
   - SNI callback
   - SSL certificates
-  - Protocol agnostic approach
+  - Protocol agnostic approach: 👂 heard
 - Technique and tools
   - Native test runner
-  - Logging
-  - Application configuring
-  - Testing
-  - CI/CD
-  - Readable
-  - Writable
+  - Logging: 🎓 known
+  - Application configuring: 🎓 known
+  - Testing: 🎓 known
+  - CI/CD: 👂 heard
+  - Readable: 👂 heard
+  - Writable: 👂 heard
   - Transform: 🎓 known
-  - back pressure
+  - back pressure: 👂 heard
   - Buffer: 🎓 known
-  - Console
-  - Inspector
-  - Reliability
-  - Quality
-  - Availability
-  - Flexibility
+  - Console: 🎓 known
+  - Inspector: 👂 heard
+  - Reliability: 👂 heard
+  - Quality: 👂 heard
+  - Availability: 👂 heard
+  - Flexibility: 👂 heard
 - Data access
-  - Data access layer
-  - Repository
-  - Active record
+  - Data access layer: 👂 heard
+  - Repository: 👂 heard
+  - Active record: 👂 heard
   - Query builder
   - Object-Relational Mapping
 - Error handling and debugging
@@ -143,20 +143,20 @@
   - error.stack: 🎓 known
   - How to avoid mixins
   - Error.captureStackTrace
-  - Uncaught exceptions
+  - Uncaught exceptions: 👂 heard
   - Heap dump
   - Debugging tools: 🎓 known
   - Flame graph
   - Memory leaks: 🎓 known
-  - Resource leaks
-  - Data race
+  - Resource leaks: 👂 heard
+  - Data race: 👂 heard
 - Integrations and bindings
-  - Native addons
-  - C and C++ addons
+  - Native addons: 👂 heard
+  - C and C++ addons: 👂 heard
   - Rust addons
   - Zig addons
   - NAN (Native Abstractions for Node.js)
-  - Node-API (formerly N-API)
+  - Node-API (formerly N-API): 🎓 known
   - NAPI C and C++
   - NAPI Rust
   - NAPI Zig
@@ -167,4 +167,4 @@
   - Webassembly AssemblyScript
   - Shared memory
   - SharedArrayBuffer
-  - V8 binary serialization
+  - V8 binary serialization: 👂 heard

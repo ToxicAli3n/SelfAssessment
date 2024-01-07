@@ -11,9 +11,9 @@
   - heap: 🖐️ used
   - function: 🙋 explained
   - procedure: 🖐️ used
-  - method: 👂 heard
-  - class: 👂 heard
-  - prototype: 👂 heard
+  - method: 🖐️ used
+  - class: 🖐️ used
+  - prototype: 🖐️ used
   - event: 🖐️ used
   - type: 🖐️ used
   - primitive types: 🖐️ used
@@ -24,11 +24,11 @@
   - conditions: 🎓 known
   - loops: 🎓 known
   - assignment: 🖐️ used
-  - regular expression: 👂 heard
-  - interface: 👂 heard
-  - contract: 👂 heard
-  - module: 👂 heard
-  - call stack: 👂 heard
+  - regular expression: 🖐️ used
+  - interface: 🖐️ used
+  - contract: 🖐️ used
+  - module: 🖐️ used
+  - call stack: 🖐️ used
 - Functions
   - signature: 🎓 known
   - argument: 🎓 known
@@ -57,10 +57,10 @@
   - structure: 🖐️ used
   - record: 👂 heard
   - enum: 🖐️ used
-  - instance: 👂 heard
-  - object: 👂 heard
-  - class: 👂 heard
-  - collection: 👂 heard
+  - instance:  🖐️ used
+  - object: 🖐️ used
+  - class: 🖐️ used
+  - collection: 🖐️ used
   - set: 🖐️ used
   - hash table: 👂 heard
   - linked list: 🖐️ used
@@ -72,11 +72,11 @@
   - deque: 🎓 known
   - tree: 🎓 known
   - graph: 🎓 known
-  - iterator: 👂 heard
-  - mutable state: 👂 heard
-  - immutable state: 👂 heard
-  - serialization: 👂 heard
-  - string parsing: 👂 heard
+  - iterator: 🎓 known
+  - mutable state: 🎓 known
+  - immutable state: 🎓 known
+  - serialization: 🎓 known
+  - string parsing: 🎓 known
 - Process & style
   - compiler: 🖐️ used
   - transpiler: 👂 heard

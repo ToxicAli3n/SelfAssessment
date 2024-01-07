@@ -25,14 +25,14 @@
   - window: 👂 heard
   - getters and setters: 🖐️ used
   - __proto__: 👂 heard
-  - prototype: 👂 heard
+  - prototype: 🖐️ used
   - equality operators: 🖐️ used
   - logical operators: 🖐️ used
   - bitwise operators: 🖐️ used
   - ternary operator: 🖐️ used
   - void: 🖐️ used
   - yield: 👂 heard
-  - await: 👂 heard
+  - await: 🖐️ used
   - template literal: 🖐️ used
   - strict mode: 🖐️ used
   - delete: 🖐️ used
@@ -56,8 +56,8 @@
   - label: 🙋 explained
   - try..catch: 🙋 explained
   - switch: 🙋 explained
-  - class: 👂 heard
-  - new Error: 👂 heard
+  - class: 🙋 explained
+  - new Error: 🙋 explained
   - with: 🙋 explained
 - Functions
   - function declaration: 🖐️ used
