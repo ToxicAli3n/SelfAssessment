@@ -1,41 +1,41 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop: 👂 heard
-  - try..catch: 👂 heard
-  - Non-blocking: 👂 heard
+  - Event loop: 🎓 known
+  - try..catch: 🎓 known
+  - Non-blocking: 🎓 known
   - Async I/O
-  - Thread pool: 👂 heard
+  - Thread pool: 🎓 known
   - Pattern Reactor: 👂 heard
   - CAS operations
   - epoll
   - kqueue
-  - Completion ports: 👂 heard
-  - Event ports: 👂 heard
+  - Completion ports: 🎓 known
+  - Event ports: 🎓 known
   - libuv
   - Race conditions
   - Dead locks
   - Live locks
   - Concurrent programming
-  - Parallel programming: 👂 heard
+  - Parallel programming: 🎓 known
   - Actor Model
-  - Thread: 👂 heard
-  - Process: 👂 heard
+  - Thread: 🎓 known
+  - Process: 🎓 known
 - Async contracts
-  - Callbacks: 👂 heard
+  - Callbacks: 🖐️ used
   - Callback-last-error-first
   - Thenable
-  - Promise: 👂 heard
-  - Async/await
+  - Promise: 🖐️ used
+  - Async/await: 👂 heard
   - Future
   - Deferred
-  - Sync generator
+  - Sync generator: 👂 heard
   - Async Generator
   - Async Iterator
-  - Event: 👂 heard
+  - Event: 🖐️ used
   - Coroutine
   - Goroutine
-  - Signal: 👂 heard
+  - Signal: 🖐️ used
   - Stream
   - Chain of responsibility
   - Middleware
@@ -44,8 +44,8 @@
   - callbackify
   - promisify
   - asyncify
-  - callbacks compose
-  - async compose
+  - callbacks compose: 👂 heard
+  - async compose: 👂 heard
 - Async abstractions interfaces
   - EventEmitter: 👂 heard
   - Observable/Observer
@@ -59,8 +59,8 @@
   - Mutex
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers
-  - setImmediate
+  - Timers: 🎓 known
+  - setImmediate: 👂 heard
   - nextTick
   - AbortController
   - AbortSignal
@@ -75,15 +75,15 @@
   - ref() and unref()
   - Error handling in async code
   - Better stack traces with return await
-  - JSON: streaming serialization
+  - JSON: streaming serialization: 👂 heard
   - promisify
   - callbackify
-  - AsyncLocalStorage
-  - AsyncResource
+  - AsyncLocalStorage: 👂 heard
+  - AsyncResource: 👂 heard
 - Techniques
-  - async.js library
+  - async.js library: 👂 heard
   - RxJS library
-  - Async composition
+  - Async composition: 👂 heard
   - Promise.all
   - Promise.allSettled
   - Promise.race
@@ -93,3 +93,4 @@
   - Channel API
   - Revealing Constructor
   - Web Locks API
+
